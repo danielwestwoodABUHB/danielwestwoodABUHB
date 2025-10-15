@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielwestwoodABUHB
 - 👀 I’m interested in Improving Health Care and Public Health
-- 🌱 I’m developing GCP infrastructure for data & analytics
-- 💞️ I’m looking to collaborate on Cloud Data Managment
+- 🌱 I’m developing GCP cloud infrastructure for data & analytics
+- 💞️ I’m looking to collaborate on Cloud Data architecture and deloyment
 - 📫 How to reach me Github Message, Linked In or Daniel.Westwood@wales.nhs.uk
 
 
