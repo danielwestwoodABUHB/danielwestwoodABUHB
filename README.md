@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielwestwoodABUHB
 - 👀 I’m interested in Improving Health Care and Public Health
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Forecasting Demand in Python
+- 🌱 I’m developing GCP infrastructure for data & analytics
+- 💞️ I’m looking to collaborate on Cloud Data Managment
 - 📫 How to reach me Github Message, Linked In or Daniel.Westwood@wales.nhs.uk
 
 
